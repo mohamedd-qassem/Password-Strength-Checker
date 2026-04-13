@@ -1,5 +1,5 @@
 # 🔐 SecurePass — Password Security Toolkit
-https://secureyourpassword.netlify.app/ 
+https://secureurpass.netlify.app/
 
 An web application to raise awareness about password security.
 
